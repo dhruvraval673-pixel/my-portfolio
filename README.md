@@ -169,9 +169,9 @@ verified the production build locally.
 
 **Email:** dhruvraval673@gmail.com
 
-**GitHub:** `<YOUR-GITHUB-PROFILE-URL>`
+**GitHub:** `https://github.com/dhruvraval673-pixel/my-portfolio`
 
-**LinkedIn:** `<YOUR-LINKEDIN-PROFILE-URL>`
+**LinkedIn:** `https://www.linkedin.com/in/dhruvraval16/`
 
 ## 👨‍💻 Author
 
